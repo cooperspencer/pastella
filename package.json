@@ -4,7 +4,7 @@
     "description": "a pastell based color theme",
     "version": "0.0.1",
     "engines": {
-        "vscode": "^1.53.0"
+        "vscode": "^1.29.0"
     },
     "publisher": "buddyspencer",
     "repository": {
